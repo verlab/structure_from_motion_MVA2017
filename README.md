@@ -30,14 +30,14 @@ Potje, G., Resende, G., Campos, M., & Nascimento, E. R., **Towards an efficient 
 
 ### Bibtex entry ###
 
->@article{potje2017towards,
->  title={Towards an efficient 3D model estimation methodology for aerial and ground images},
->  author={Potje, Guilherme and Resende, Gabriel and Campos, Mario and Nascimento, Erickson R},
->  journal={Machine Vision and Applications},
->  pages={1--16},
->  year={2017},
->  publisher={Springer}
->  Url = {https://link.springer.com/article/10.1007/s00138-017-0875-x
->  } 
+>@article{potje2017towards,    
+>  title={Towards an efficient 3D model estimation methodology for aerial and ground images},    
+>  author={Potje, Guilherme and Resende, Gabriel and Campos, Mario and Nascimento, Erickson R},    
+>  journal={Machine Vision and Applications},    
+>  pages={1--16},    
+>  year={2017},     
+>  publisher={Springer}    
+>  Url = {https://link.springer.com/article/10.1007/s00138-017-0875-x    
+>  }     
 
 
