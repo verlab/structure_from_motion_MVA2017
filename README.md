@@ -5,7 +5,7 @@
 ### Authors ###
 
 * Guilherme Augusto Potje, MSc. - Researcher - UFMG - guipotje@dcc.ufmg.com
-* Gabriel Dias Resende - Electrical Engeneering student - UFMG - gabriel.diasresende@gmail.com
+* Gabriel Dias Resende - Electrical Engineering student - UFMG - gabriel.diasresende@gmail.com
 * Mario Fernando Montenegro Campos, PhD. - Advisor - UFMG - mario@dcc.ufmg.br
 * Erickson Rangel do Nascimento, PhD. - Advisor - UFMG - erickson@dcc.ufmg.br
 
