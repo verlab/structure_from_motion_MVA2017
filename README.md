@@ -26,9 +26,7 @@ http://www.verlab.dcc.ufmg.br
 
 If you are using it for academic purposes, please cite: 
 
-M. M. Silva, W. L. S. Ramos, J. P. K. Ferreira, M. F. M. Campos, E. R. Nascimento, **Towards semantic fast-forward and stabilized egocentric videos**, in: _European Conference on Computer Vision Workshops_, Springer International Publishing, Amsterdam, NL, 2016, pp. 557–571. doi:10.1007/978-3-319-46604-0_40.
-
-Potje, G., Resende, G., Campos, M., & Nascimento, E. R., **Towards an efficient 3D model estimation methodology for aerial and ground images**, in: _Machine Vision and Applications_, 2017, pp. 1-16. doi: [10.1007/s00138-017-0875-x!](https://link.springer.com/article/10.1007/s00138-017-0875-x).
+Potje, G., Resende, G., Campos, M., & Nascimento, E. R., **Towards an efficient 3D model estimation methodology for aerial and ground images**, in: _Machine Vision and Applications_, 2017, pp. 1-16. doi: [10.1007/s00138-017-0875-x](https://link.springer.com/article/10.1007/s00138-017-0875-x).
 
 ### Bibtex entry ###
 
