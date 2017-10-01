@@ -36,7 +36,8 @@ Potje, G., Resende, G., Campos, M., & Nascimento, E. R., **Towards an efficient 
 >  journal={Machine Vision and Applications},    
 >  pages={1--16},    
 >  year={2017},     
->  publisher={Springer}    
+>  publisher={Springer},
+>  Doi = {10.1007/978-3-319-46604-0_40},
 >  Url = {https://link.springer.com/article/10.1007/s00138-017-0875-x    
 >  }     
 
