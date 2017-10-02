@@ -38,7 +38,7 @@ Potje, G., Resende, G., Campos, M., & Nascimento, E. R., **Towards an efficient 
 >  year={2017},     
 >  publisher={Springer},    
 >  Doi = {10.1007/s00138-017-0875-x},    
->  Url = {https://link.springer.com/article/10.1007/s00138-017-0875-x}    
+>  Url = {https://link.springer.com/article/10.1007/s00138-017-0875-x }    
 >  }     
 
 
